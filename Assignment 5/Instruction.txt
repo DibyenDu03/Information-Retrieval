@@ -1,0 +1,5 @@
+For running python code, please execute "A5_MT19034_Q1_Naive_KNN" file.
+while giving input give training:testing ratio- 0.5 ( 50:50)
+						0.7 (70:30)
+						0.8 (80:30)
+For runing ".ipynb" file- execute from first sell.
